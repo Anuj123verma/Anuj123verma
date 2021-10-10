@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anuj Verma
+- 👋 Hi, I’m Anuj Verma from IIIT Delhi 2021
 - 👀 I’m interested in competitive programming, backend and app development.
 - 🌱 I’m currently learning mulesoft, blockchain, golang, kafka, druid and superset.
 - 💞️ I’m looking to collaborate on projects working on Java, Golang, Javascript and Python.
